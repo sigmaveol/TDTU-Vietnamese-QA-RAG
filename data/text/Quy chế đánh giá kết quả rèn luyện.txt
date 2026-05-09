@@ -1,0 +1,187 @@
+# QUY CHẾ
+## ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN
+### TRÌNH ĐỘ ĐẠI HỌC HỆ CHÍNH QUY
+## CHƯƠNG I. QUY ĐỊNH CHUNG
+### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy chế này quy định việc đánh giá kết quả rèn luyện của sinh viên được đào tạo trình độ đại học hệ chính quy tại Trường Đại học Tôn Đức Thắng (sau đây được gọi chung là sinh viên), bao gồm các nội dung: Nguyên tắc đánh giá kết quả rèn luyện; Nội dung và thang điểm đánh giá kết quả rèn luyện; Tiêu chí và thang điểm đánh giá rèn luyện; Phân loại đánh giá và quy trình đánh giá kết quả rèn luyện; Tổ chức đánh giá và sử dụng kết quả đánh giá rèn luyện; Tổ chức thực hiện.
+2. Quy chế này áp dụng đối với sinh viên được đào tạo trình độ đại học hệ chính quy (chương trình tiêu chuẩn, chương trình chất lượng cao/chương trình tiên tiến, chương trình đại học bằng tiếng Anh, chương trình liên kết quốc tế...) tại Trường Đại học Tôn Đức Thắng.
+
+### Điều 2. Nguyên tắc đánh giá kết quả rèn luyện
+1. Đánh giá kết quả rèn luyện được thực hiện trên hệ thống thông tin sinh viên, đảm bảo **khách quan, công khai, công bằng, chính xác**.
+2. Đảm bảo **bình đẳng, khách quan, dân chủ** trong đánh giá kết quả rèn luyện.
+3. Phối hợp đồng bộ, chặt chẽ các bộ phận, các đơn vị có liên quan trong Trường khi tham gia đánh giá kết quả rèn luyện của sinh viên.
+
+### Điều 3. Nội dung đánh giá và thang điểm
+#### 1. Kết quả rèn luyện của sinh viên được xem xét, đánh giá theo các nội dung sau:
+| TT | Nội dung | Điểm tối đa |
+|----|----------|-------------|
+| a | Việc tham gia học tập và tham gia các hoạt động chuyên môn học thuật | 20 điểm |
+| b | Việc chấp hành nội quy, quy chế, quy định trong Trường | 20 điểm |
+| c | Việc tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể thao; phòng chống tội phạm và các tệ nạn xã hội; hoạt động phong trào | 20 điểm |
+| d | Việc tham gia các hoạt động cộng đồng, công tác xã hội, công tác tình nguyện | 20 điểm |
+| e | Tinh thần tiên phong, gương mẫu | 20 điểm |
+| g | Điểm thưởng | 20 điểm |
+#### 2. Điểm rèn luyện được đánh giá:
+a) Kết quả đánh giá rèn luyện được ghi nhận bằng điểm số đánh giá của các nội dung quy định tại khoản 1, Điều 3 Quy chế này với **tổng điểm cao nhất là 100 điểm**.
+b) Trong trường hợp tổng điểm của sinh viên ở một nội dung quy định tại khoản 1, Điều 3 Quy chế này vượt quá 20 điểm, tổng điểm của nội dung đó sẽ được ghi nhận ở mức cao nhất là **20 điểm**.
+c) Trong trường hợp tổng điểm của sinh viên vượt quá 100 điểm, sinh viên sẽ được ghi nhận ở mức **100 điểm**.
+
+## CHƯƠNG II. TIÊU CHÍ VÀ THANG ĐIỂM ĐÁNH GIÁ RÈN LUYỆN
+### Điều 4. Việc tham gia học tập và tham gia các hoạt động chuyên môn học thuật (tối đa 20 điểm)
+| TT | Tiêu chí đánh giá | Thang điểm |
+|----|--------------------|-------------|
+| 1 | Tham gia thi các cuộc thi học thuật, nghiên cứu khoa học, cuộc thi Ý tưởng sáng tạo, khởi nghiệp… cấp Lớp/Chi Đoàn/Chi Hội/Khoa/Phân hiệu | 10 điểm/lần |
+| 2 | Tham gia thi các cuộc thi học thuật, nghiên cứu khoa học, cuộc thi Ý tưởng sáng tạo, khởi nghiệp… cấp Trường | 15 điểm/lần |
+| 3 | Tham gia thi các cuộc thi học thuật, nghiên cứu khoa học, cuộc thi Ý tưởng sáng tạo, khởi nghiệp… cấp Thành trở lên | 20 điểm/lần |
+| 4 | Có bài báo đăng trên các tạp chí WoS/Scopus, kỷ yếu hội thảo khoa học quốc tế; Có bài báo đăng trên tạp chí thuộc danh mục được công nhận bởi Hội đồng Giáo sư Nhà nước, có điểm tối đa từ 0.5 trở lên; Tham gia báo cáo tại hội thảo khoa học quốc tế... | 20 điểm/lần |
+| 5 | Tham gia hội thảo khoa học; các buổi sinh hoạt chuyên đề, chia sẻ định hướng nghề nghiệp, tham quan thực tế nghề nghiệp ngoài chương trình học… | 05 điểm/lần |
+| 6 | Tham gia các hoạt động tìm hiểu học thuật trực tuyến cấp Khoa/Phân hiệu/Lớp/Chi Đoàn/Chi Hội | 03 điểm/lần |
+| 7 | Tham gia cổ vũ, cổ động các cuộc thi học thuật, nghiên cứu khoa học, cuộc thi Ý tưởng sáng tạo, khởi nghiệp | 05 điểm/lần |
+| 8 | Tham gia tổ chức hoạt động học thuật từ cấp Khoa/Phân hiệu trở lên được đánh giá mức độ từ hoàn thành nhiệm vụ | 10 điểm/lần |
+| 9 | Thành viên các câu lạc bộ chuyên môn học thuật do Khoa/Phân hiệu thành lập và được Ban Chủ nhiệm/Ban Điều hành đánh giá mức độ hoàn thành nhiệm vụ từng học kỳ:<br>- Hoàn thành xuất sắc nhiệm vụ: 20 điểm<br>- Hoàn thành tốt nhiệm vụ: 15 điểm<br>- Hoàn thành nhiệm vụ: 10 điểm | |
+| 10 | Tham gia các khóa học ngoại khóa và được xét hoàn thành khóa học | Thang điểm ghi nhận theo văn bản được phê duyệt |
+| 11 | **Kết quả học tập:**<br>- Kém (điểm TBHK dưới 4.0): 0 điểm<br>- Yếu (điểm TBHK từ 4.0 - cận 5.0): 0 điểm<br>- Trung bình (điểm TBHK từ 5.0 - cận 6.0): 05 điểm<br>- Trung bình Khá (điểm TBHK từ 6.0 - cận 7.0): 06 điểm<br>- Khá (điểm TBHK từ 7.0 - cận 8.0): 07 điểm<br>- Giỏi (điểm TBHK từ 8.0 - cận 9.0): 08 điểm<br>- Xuất sắc (điểm TBHK từ 9.0 - 10.0): 10 điểm | |
+
+### Điều 5. Việc chấp hành nội quy, quy chế, quy định trong Trường (tối đa 20 điểm)
+| TT | Tiêu chí đánh giá | Thang điểm |
+|----|--------------------|-------------|
+| 1 | Sinh viên **không vi phạm** nội quy, quy định của Trường, pháp luật Nhà nước | 20 điểm |
+| 2 | Trường hợp sinh viên có vi phạm nội quy, quy chế (mức độ bị xử lý vi phạm):<br>- Nhắc nhở: - 05 điểm/lần<br>- Phê bình: - 07 điểm/lần<br>- Nghiêm khắc phê bình: - 09 điểm/lần<br>- Khiển trách: - 12 điểm/lần<br>- Cảnh cáo: - 16 điểm/lần<br>- Cảnh cáo lần 2: - 20 điểm/lần | |
+| 3 | Không chấp hành điều động, phân công, thông báo của Trường, Khoa/Phân hiệu hoặc hoạt động đã đăng ký nhưng không tham gia | - 05 điểm/lần |
+
+### Điều 6. Việc tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể thao; phòng chống tội phạm và các tệ nạn xã hội; hoạt động phong trào (tối đa 20 điểm)
+| TT | Tiêu chí đánh giá | Thang điểm |
+|----|--------------------|-------------|
+| 1 | Tham gia thi các hoạt động văn hóa, văn nghệ, thể thao; hoạt động phong trào… cấp Lớp/Chi Đoàn/Chi Hội/Khoa/Phân hiệu | 10 điểm/lần |
+| 2 | Tham gia thi các hoạt động văn hóa, văn nghệ, thể thao; hoạt động phong trào… cấp Trường | 15 điểm/lần |
+| 3 | Tham gia thi các hoạt động văn hóa, văn nghệ, thể thao; hoạt động phong trào… cấp Thành trở lên | 20 điểm/lần |
+| 4 | Tham gia các hoạt động giao lưu văn hóa quốc tế, các hoạt động văn hóa (lễ hội văn hóa, tuần lễ văn hóa, tìm hiểu văn hóa các nước… do Trường, Khoa/Phân hiệu, Lớp phát động/tổ chức) | 05 điểm/lần |
+| 5 | Tham gia các hoạt động giáo dục truyền thống (tham quan địa chỉ đỏ, bảo tàng, nhà tưởng niệm, di tích lịch sử… do Trường, Khoa/Phân hiệu, Lớp phát động/tổ chức) | 05 điểm/lần |
+| 6 | Tham gia các hoạt động tìm hiểu văn hóa văn nghệ, thể dục thể thao; hoạt động phong trào … do Trường, Khoa/Phân hiệu, Lớp phát động/tổ chức với hình thức trực tuyến | 03 điểm/lần |
+| 7 | Tham gia cổ vũ, cổ động các hoạt động văn nghệ, thể dục thể thao… | 05 điểm/lần |
+| 8 | Tham gia các đợt sinh hoạt chính trị, xã hội, phòng chống tệ nạn xã hội | 05 điểm/lần |
+| 9 | Tham gia tổ chức hoạt động văn nghệ, thể dục thể thao; hoạt động phong trào từ cấp Khoa/Phân hiệu trở lên được đánh giá mức độ từ hoàn thành nhiệm vụ | 10 điểm/lần |
+| 10 | Thành viên CLB/Đội/Nhóm văn hóa, văn nghệ, thể dục thể thao; đội tự quản, cờ đỏ; đội cộng tác viên do Phòng/Ban/Đoàn-Hội/Trung tâm/Khoa/Phân hiệu… được đánh giá mức độ hoàn thành nhiệm vụ từng học kỳ:<br>- Hoàn thành xuất sắc nhiệm vụ: 20 điểm<br>- Hoàn thành tốt nhiệm vụ: 15 điểm<br>- Hoàn thành nhiệm vụ: 10 điểm | |
+
+### Điều 7. Việc tham gia các hoạt động cộng đồng, công tác xã hội, công tác tình nguyện (tối đa 20 điểm)
+| TT | Tiêu chí đánh giá | Thang điểm |
+|----|--------------------|-------------|
+| 1 | Tham gia Chương trình tiếp sức mùa thi, Xuân Tình nguyện, Mùa hè xanh và các chương trình, chiến dịch khác do Trường/Khoa/Phân hiệu tổ chức được đánh giá mức độ hoàn thành nhiệm vụ:<br>- Hoàn thành xuất sắc: 20 điểm<br>- Hoàn thành tốt: 15 điểm<br>- Hoàn thành nhiệm vụ: 10 điểm | |
+| 2 | Tham gia tổ chức các hoạt động tình nguyện, hoạt động vì cộng đồng… từ cấp Khoa/Phân hiệu trở lên được đánh giá mức độ từ hoàn thành nhiệm vụ | 10 điểm/lần |
+| 3 | Tham gia tuyên truyền các chủ trương của Đảng, chính sách pháp luật của Nhà nước đến với cộng đồng, xã hội | 05 điểm/lần |
+| 4 | Hiến máu tình nguyện, hiến tặng tóc cho các bệnh nhân ung thư | 10 điểm/lần |
+| 5 | Tham gia hoạt động ngày Chủ nhật xanh, Thứ 7 tình nguyện và các hoạt động khác liên quan đến hoạt động cộng đồng, công tác xã hội, công tác tình nguyện; Tham gia hoạt động tình nguyện bên ngoài trường và có minh chứng tham gia | 07 điểm/lần |
+| 6 | Hoạt động: tiếp sức đến trường, vì đàn em thân yêu, vì biên giới biển đảo…; Có tinh thần chia sẻ, giúp đỡ người gặp khó khăn, hoạn nạn; hỗ trợ giúp đỡ cộng đồng; Tích cực hưởng ứng các cuộc vận động, phát động, ủng hộ vì người nghèo, ủng hộ đồng bào bị thiên tai, lũ lụt… | 03 điểm/lần |
+| 7 | Tham gia các hoạt động kết nối, chia sẻ cơ hội học tập để giúp học sinh, lưu học sinh tiếp cận thông tin chính xác, đầy đủ về ngành học, chương trình học và môi trường học tập | 07 điểm/lần |
+
+### Điều 8. Tinh thần tiên phong, gương mẫu (tối đa 20 điểm)
+| TT | Tiêu chí đánh giá | Thang điểm |
+|----|--------------------|-------------|
+| 1 | Là Lớp trưởng, Bí thư/Phó bí thư Chi đoàn, Chi hội trưởng/Chi hội phó Chi Hội, Ban chấp hành (BCH) Đoàn/Hội trường, BCH Đoàn/Hội Khoa/Phân hiệu được đánh giá mức độ hoàn thành nhiệm vụ từng học kỳ:<br>- Hoàn thành xuất sắc: 20 điểm<br>- Hoàn thành tốt: 15 điểm<br>- Hoàn thành nhiệm vụ: 12 điểm | |
+| 2 | Là Tổ trưởng, Ủy viên BCH Chi Đoàn/Hội được đánh giá mức độ hoàn thành nhiệm vụ từng học kỳ:<br>- Hoàn thành xuất sắc: 15 điểm<br>- Hoàn thành tốt: 12 điểm<br>- Hoàn thành nhiệm vụ: 10 điểm | |
+| 3 | Ban điều hành/Ban chủ nhiệm của các CLB/Đội/Nhóm; Ban liên lạc Lưu học sinh các nước… do Khoa/Phân hiệu/Phòng/Ban/Viện/Trung tâm thành lập được đánh giá mức độ hoàn thành nhiệm vụ từng học kỳ:<br>- Hoàn thành xuất sắc: 20 điểm<br>- Hoàn thành tốt: 15 điểm<br>- Hoàn thành nhiệm vụ: 10 điểm | |
+| 4 | Chủ động, tích cực tham gia vào các hoạt động chung của Lớp/Khoa/Phân hiệu/Trường:<br>- Từ 07 - 10 hoạt động trực tiếp: 08 điểm<br>- Từ 11 - 14 hoạt động trực tiếp: 10 điểm<br>- Từ 15 hoạt động trực tiếp trở lên: 12 điểm | |
+| 5 | Sinh viên có nhiều đóng góp cho sự phát triển của Khoa/Phân hiệu/Phòng/Ban/Trung tâm/Viện (các đơn vị đánh giá dựa trên sự đóng góp của sinh viên theo từng học kỳ) | Tối đa 20 điểm |
+| 6 | **Lưu ý:** Trường hợp sinh viên vi phạm nội quy, quy chế và bị xử lý kỷ luật từ mức Khiển trách trở lên sẽ **không được ghi nhận mục này**. | |
+
+### Điều 9. Điểm thưởng (tối đa 20 điểm)
+| TT | Tiêu chí đánh giá | Thang điểm |
+|----|--------------------|-------------|
+| 1 | **Giấy khen về NCKH/cuộc thi chuyên môn… cấp Khoa/Phân hiệu:**<br>- Giải nhất: 07 điểm<br>- Giải nhì: 06 điểm<br>- Giải ba: 05 điểm<br>- Giải khuyến khích: 04 điểm | |
+| 2 | **Giấy khen về NCKH/cuộc thi chuyên môn… cấp Trường:**<br>- Giải nhất: 10 điểm<br>- Giải nhì: 09 điểm<br>- Giải ba: 08 điểm<br>- Giải khuyến khích: 07 điểm | |
+| 3 | **Giấy khen về NCKH/cuộc thi chuyên môn… cấp Thành:**<br>- Giải nhất: 15 điểm<br>- Giải nhì: 14 điểm<br>- Giải ba: 13 điểm<br>- Giải khuyến khích: 12 điểm | |
+| 4 | **Giấy khen về NCKH/cuộc thi chuyên môn… cấp Bộ:**<br>- Giải nhất: 20 điểm<br>- Giải nhì: 19 điểm<br>- Giải ba: 18 điểm<br>- Giải khuyến khích: 17 điểm | |
+| 5 | **Thành tích văn hóa văn nghệ, TDTT cấp Khoa/Phân hiệu:**<br>- Giải nhất: 07 điểm<br>- Giải nhì: 06 điểm<br>- Giải ba: 05 điểm<br>- Giải khuyến khích: 04 điểm | |
+| 6 | **Thành tích văn hóa văn nghệ, TDTT cấp Trường:**<br>- Giải nhất: 10 điểm<br>- Giải nhì: 09 điểm<br>- Giải ba: 08 điểm<br>- Giải khuyến khích: 07 điểm | |
+| 7 | **Thành tích văn hóa văn nghệ, TDTT cấp Thành:**<br>- Giải nhất: 15 điểm<br>- Giải nhì: 14 điểm<br>- Giải ba: 13 điểm<br>- Giải khuyến khích: 12 điểm | |
+| 8 | **Thành tích văn hóa văn nghệ, TDTT cấp Toàn quốc:**<br>- Giải nhất: 18 điểm<br>- Giải nhì: 17 điểm<br>- Giải ba: 16 điểm<br>- Giải khuyến khích: 15 điểm | |
+| 9 | **Thành tích văn hóa văn nghệ, TDTT cấp Quốc tế:**<br>- Giải nhất: 20 điểm<br>- Giải nhì: 19 điểm<br>- Giải ba: 18 điểm<br>- Giải khuyến khích: 17 điểm | |
+| 10 | **Giấy khen sinh viên có nhiều đóng góp tích cực cho sự phát triển của Trường, hoạt động công tác xã hội, cộng đồng, tình nguyện:**<br>- Cấp Trường: 10 điểm<br>- Cấp Tỉnh, Thành, Ngành: 15 điểm<br>- Cấp Bộ; Trung ương Đoàn, Hội hoặc tương đương: 18 điểm<br>- Bằng khen Chính phủ: 20 điểm | |
+
+### Điều 10. Đối với học kỳ sinh viên tham gia tập sự nghề nghiệp/sinh viên tham gia học tập tại nước ngoài
+(có quyết định của Trường, thời gian học tập từ hai tháng trở lên) thì nội dung và thang điểm đánh giá rèn luyện như sau:
+1. Sinh viên tham gia tập sự nghề nghiệp hoặc tham gia học tập tại nước ngoài tại học kỳ nào thì điểm rèn luyện được tính vào học kỳ đó, cách tính như sau:
+   a) Việc chấp hành nội quy, quy chế, quy định trong Trường và đơn vị tập sự nghề nghiệp hoặc Trường liên kết: **tối đa 20 điểm**.
+   b) Kết quả điểm tập sự nghề nghiệp hoặc học tập tại nước ngoài: **tối đa 80 điểm**.
+      | Điểm tập sự nghề nghiệp | Thang điểm rèn luyện quy đổi |
+      |--------------------------|------------------------------|
+      | Từ 9,0 trở lên | 80 điểm |
+      | Từ 8,0 đến dưới 9,0 | 70 điểm |
+      | Từ 7,0 đến dưới 8,0 | 60 điểm |
+      | Từ 6,0 đến dưới 7,0 | 50 điểm |
+      | Từ 5,0 đến dưới 6,0 | 40 điểm |
+      | Dưới 5,0 | 00 điểm |
+   c) Điểm thưởng: **tối đa 20 điểm**.
+2. Riêng đối với các Khoa: **Điện - Điện tử, Công nghệ thông tin, Khoa học ứng dụng, Dược** thì cách tính điểm rèn luyện được áp dụng cho **học kỳ cuối**. Đối với trường hợp tốt nghiệp trước tiến độ đào tạo, Khoa làm việc với Phòng Công tác học sinh - sinh viên để tính điểm rèn luyện cho sinh viên.
+3. Sinh viên không tham gia tập sự nghề nghiệp theo đúng lộ trình đào tạo chuẩn thì sinh viên sẽ tham gia hoạt động bình thường, đánh giá rèn luyện theo đúng lộ trình đào tạo.
+4. Trong học kỳ tập sự nghề nghiệp, sinh viên tích cực tham gia các hoạt động trực tiếp tại Trường thì hệ thống vẫn ghi nhận hoạt động cho sinh viên.
+
+## CHƯƠNG III. PHÂN LOẠI ĐÁNH GIÁ VÀ QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN
+### Điều 11. Phân loại kết quả rèn luyện
+1. Kết quả rèn luyện được phân thành các loại: **xuất sắc, tốt, khá, trung bình, yếu và kém**.
+2. Phân loại kết quả rèn luyện:
+| Điểm | Xếp loại |
+|------|-----------|
+| Từ 90 đến 100 điểm | Xuất sắc |
+| Từ 80 đến dưới 90 điểm | Tốt |
+| Từ 65 đến dưới 80 điểm | Khá |
+| Từ 50 đến dưới 65 điểm | Trung bình |
+| Từ 35 đến dưới 50 điểm | Yếu |
+| Dưới 35 điểm | Kém |
+
+### Điều 12. Đánh giá kết quả rèn luyện
+| Nội dung | Chương trình tiêu chuẩn, chất lượng cao/tiên tiến, đại học bằng tiếng Anh | Chương trình liên kết đào tạo quốc tế |
+|----------|---------------------------------------------------------------------------|---------------------------------------|
+| **Quá trình đánh giá** | Học kỳ 1, học kỳ 2, năm học, toàn khóa học | Học kỳ 1, học kỳ 2, năm học tại TDTU |
+| **Điểm rèn luyện năm học** | Trung bình chung hai học kỳ của năm học | Trung bình chung hai học kỳ của năm học tại TDTU |
+| **Điểm rèn luyện toàn khóa** | Trung bình chung của các học kỳ theo khung chương trình đào tạo | Trung bình chung của các học kỳ tại TDTU |
+| **Tốt nghiệp trước tiến độ** | Trung bình chung của các học kỳ đã học tại Trường | |
+| **Tốt nghiệp trễ tiến độ** | Điểm rèn luyện toàn khóa là trung bình chung của các học kỳ theo khung chương trình chuẩn. Hoạt động ở các học kỳ trễ tiến độ được ghi nhận nhưng không tính vào điểm toàn khóa. | |
+| **Kỷ luật khiển trách** | Không được vượt quá loại **Khá** (tính tại học kỳ có quyết định) | |
+| **Kỷ luật cảnh cáo** | Không được vượt quá loại **Trung bình** (tính tại học kỳ có quyết định) | |
+| **Nghỉ học tạm thời** | Được bảo lưu kết quả rèn luyện, đánh giá khi trở lại học | |
+| **Đình chỉ học tập** | Không được đánh giá rèn luyện trong thời gian bị đình chỉ | |
+| **Buộc thôi học** | Không được đánh giá kết quả rèn luyện | |
+| **Trường hợp đặc biệt** (khuyết tật, tàn tật, mồ côi, hoàn cảnh đặc biệt khó khăn) | Được ưu tiên, động viên, khuyến khích, cộng điểm do Khoa đề xuất và Ban Giám hiệu phê duyệt | |
+| **Chuyển trường** | Được bảo lưu kết quả rèn luyện của cơ sở giáo dục đại học cũ khi học tại cơ sở giáo dục đại học mới và tiếp tục được đánh giá kết quả rèn luyện ở các học kỳ tiếp theo. | |
+
+### Điều 13. Quy trình đánh giá kết quả rèn luyện
+Các bước đánh giá kết quả rèn luyện của sinh viên được thực hiện theo **thủ tục hiện hành** theo quy định của Nhà trường.
+
+## CHƯƠNG IV. TỔ CHỨC ĐÁNH GIÁ VÀ SỬ DỤNG KẾT QUẢ ĐÁNH GIÁ RÈN LUYỆN
+### Điều 14. Hội đồng đánh giá kết quả rèn luyện
+Hội đồng đánh giá kết quả rèn luyện được thực hiện theo **thủ tục đánh giá kết quả rèn luyện hiện hành**.
+
+### Điều 15. Sử dụng kết quả đánh giá rèn luyện
+1. Kết quả đánh giá rèn luyện từng học kỳ, năm học, toàn khóa của sinh viên được lưu trong **cơ sở dữ liệu quản lý người học** của Trường.
+2. Kết quả đánh giá rèn luyện là tiêu chí để:
+   - (1) Xét cấp các loại học bổng
+   - (2) Xét khen thưởng sinh viên
+   - (3) Thực hiện hỗ trợ phần chênh lệch học phí đối với các đối tượng được miễn, giảm học phí theo Nghị định hiện hành
+   - (4) Xét kết nạp Đảng và chuyển Đảng
+   - (5) Xét bầu chọn cán bộ Lớp, cán bộ Đoàn - Hội
+   - (6) Xét sinh viên 5 tốt
+   - (7) Xét cử nhân - kỹ sư - kiến trúc sư - dược sĩ ưu tú
+   - (8) Xét tuyển dụng tại Trường theo quy định hiện hành
+3. Xét điều kiện tập sự nghề nghiệp do **Trưởng Khoa** quyết định.
+4. **Điều kiện xét tốt nghiệp; xét chuyển tiếp giai đoạn 2:**
+   a) Điểm trung bình toàn khóa phải **≥ 50 điểm**.
+   b) Áp dụng từ Khóa tuyển sinh năm **2017** trở về sau. Riêng Khóa 2017 áp dụng mức điểm rèn luyện trung bình để xét tốt nghiệp bắt đầu từ năm học thứ 2.
+   c) Riêng đối với chương trình liên kết đào tạo quốc tế thì áp dụng từ Khóa tuyển sinh năm **2020** trở về sau.
+5. **Trường hợp sinh viên không đủ điểm rèn luyện để xét tốt nghiệp, xét chuyển tiếp giai đoạn 2:**
+   a) Đối với sinh viên Khóa tuyển sinh năm **2024 trở về trước**: sinh viên phải tham gia bổ sung các hoạt động do Trường, Khoa tổ chức (tối thiểu **03 hoạt động**).
+   b) Đối với sinh viên Khóa tuyển sinh năm **2025 trở về sau**: Sinh viên phải tham gia bổ sung các hoạt động do Trường/Khoa/Phân hiệu tổ chức và tích lũy đủ số điểm ở học kỳ bổ sung.
+   **Công thức tính số điểm phải tham gia:**
+   $$Số\ điểm\ phải\ tham\ gia = (50 - \overline{R}) \times N$$
+   Trong đó:
+   - \(\overline{R}\): Trung bình rèn luyện toàn khóa thực tế
+   - \(N\): Số học kỳ theo đúng chương trình đào tạo
+6. Kết quả rèn luyện toàn khóa được in vào **bảng điểm tốt nghiệp**. Áp dụng từ Khóa tuyển sinh năm 2017 trở về sau.
+7. Kết quả đánh giá rèn luyện năm học **xuất sắc** sẽ được Trường xem xét khen thưởng.
+8. Người học bị xếp loại rèn luyện **yếu, kém trong hai học kỳ liên tiếp** thì phải tạm ngừng học ít nhất một học kỳ ở học kỳ tiếp theo và nếu bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp **lần thứ hai** thì sẽ bị **buộc thôi học**. Các trường hợp ngoại lệ, Hội đồng xem xét, quyết định.
+
+## CHƯƠNG V. TỔ CHỨC THỰC HIỆN
+### Điều 16. Tổ chức thực hiện
+1. Quy chế này có **05 Chương, 16 Điều, 10 Trang** có hiệu lực thi hành kể từ **năm học 2025 - 2026** và thay thế các quy định về đánh giá kết quả rèn luyện đã được ban hành trước thời điểm Quyết định này có hiệu lực thi hành.
+2. Sinh viên, các đơn vị thuộc/trực thuộc, các cá nhân có liên quan có trách nhiệm **thi hành Quy chế này**. Trường hợp các văn bản, quy định dẫn chiếu trong Quy chế này có sự thay đổi thì thực hiện theo quy định mới ban hành.
+3. Trong quá trình thực hiện, khi thực tế làm phát sinh yêu cầu mới, hoặc pháp luật có thay đổi, bổ sung; Lãnh đạo **Phòng Công tác học sinh - sinh viên** sẽ kịp thời tham mưu cho Hiệu trưởng xem xét quyết định việc điều chỉnh một hoặc một số nội dung cho phù hợp.

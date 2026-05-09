@@ -1,0 +1,45 @@
+# API keys & secrets
+.env
+.env.local
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data
+data/raw/
+data/chunks/
+data/qa_raw/
+data/qa_filtered/
+*.jsonl
+
+# Models
+models/
+checkpoints/
+tdtu-student-regulations-qa-model/
+*.safetensors
+*.bin
+*.pt
+
+# Office temp files
+~$*.docx
+~$*.pptx
+
+# Other
+.claude
+.gradio
